@@ -1,0 +1,9 @@
+
+SPY is a console simulator which works under TSO.
+This version of SPY (probably) does not work under later
+versions of z/OS.
+
+For a later version of SPY, that works on later z/OS systems,
+please use the copy that is on CBT Tape File 566.  That version
+works, at least on z/OS 2.5 and on 3.1.
+

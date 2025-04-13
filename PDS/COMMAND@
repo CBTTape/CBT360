@@ -1,0 +1,8 @@
+A different COMMAND program, which is known to work on z/OS systems
+as late as z/OS 3.1, may be found on CBT Tape File 019.  That COMMAND
+program has many more features than this one, and its use is to be
+preferred, in my opinion.  (S.Golob - Sept 2024)
+
+If you have any questions, please write to Sam Golob:
+sbgolob@cbttape.org
+
